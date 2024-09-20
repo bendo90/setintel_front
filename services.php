@@ -22,7 +22,7 @@
       <p class="text-red-900 font-bold text-4xl">Services</p>
   </div>
 
-  <div style="height: 1000px; background-color: #f0f9fa">
+  <div style="background-color: #f0f9fa">
       <div
               style="margin: auto"
               class="grid grid-cols-3 flex justify-end gap-5 max-w-7xl"
@@ -210,7 +210,7 @@
               </div>
           </div>
       </div>
-      <div class="mt-10">
+      <div class="mt-10 pb-10">
           <div
                   style="margin: auto"
                   class="grid grid-cols-3 flex justify-end gap-5 max-w-7xl"
@@ -671,10 +671,6 @@
   </div>
 
 
-
-
-  <div class="h-40 flex justify-center items-center" style="background-color: #f0f9fa">
-  </div>
 
 
 
