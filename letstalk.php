@@ -25,7 +25,7 @@
                       <input
                               type="text"
                               placeholder="First Name"
-                              class="border border-red-900 rounded-lg py-3 px-4 w-full focus:outline-none focus:ring-2 focus:ring-red-600"
+                              class="border border-red-900 rounded-lg py-3 px-4 w-full focus:outline-none focus:ring-2 focus:ring-red-900"
                       />
                   </div>
 
@@ -56,13 +56,13 @@
                   <input
                           type="text"
                           placeholder="Company"
-                          class="border border-red-900 rounded-lg py-3 px-4 w-full focus:outline-none focus:ring-2 focus:ring-red-600"
+                          class="border border-red-900 rounded-lg py-3 px-4 w-full focus:outline-none focus:ring-2 focus:ring-red-900"
                   />
                   <div class="pt-3">
               <textarea
                       placeholder="Message"
                       rows="5"
-                      class="border border-red-900 rounded-lg py-2 px-4 w-full focus:outline-none focus:ring-2 focus:ring-red-600"
+                      class="border border-red-900 rounded-lg py-2 px-4 w-full focus:outline-none focus:ring-2 focus:ring-red-900"
               ></textarea>
                   </div>
 
