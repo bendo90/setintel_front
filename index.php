@@ -33,7 +33,7 @@
         </h1>
 
         <div class="md:flex md:space-x-6">
-          <div class="md:w-2/3 space-y-4">
+          <div class="md:w-2/4 space-y-4">
             <p class="text-gray-700 leading-relaxed">
               Welcome to Setintel, where innovation meets sports media.
               Leveraging our extensive experience, we excel in facilitating
@@ -61,7 +61,7 @@
             </p>
           </div>
 
-          <div class="md:w-1/3 flex justify-center mt-6 md:mt-0">
+          <div class="md:w-2/4 flex justify-center mt-6 md:mt-0">
             <img
               class="rounded-lg shadow-lg w-full max-w-xs"
               src="images/9.png"
