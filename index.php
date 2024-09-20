@@ -9,7 +9,7 @@
   <body>
   <?php include ("header.php"); ?>
 
-    <div id="heroVideoContainer" class="relative h-[calc(50vh-54px)] w-full overflow-hidden lg:h-[calc(50vh-78px)] bg-[url('/images/banner.png')]">
+    <div id="heroVideoContainer" class="relative h-[calc(50vh-54px)] w-full overflow-hidden lg:h-[calc(50vh-78px)] bg-[url('./images/banner.png')]">
 <!--      <video autoplay muted>-->
 <!--        <source src="./assets/home-Ck27GsdL.mp4" type="video/mp4" />-->
 <!--        <source src="./assets/home-qvvV6RXz.webm" type="video/webm" />-->
