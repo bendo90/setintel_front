@@ -45,7 +45,7 @@
                   <img
                           class="rounded-[10px]"
                           style="width: 90%; margin: auto"
-                          src="assets/jhinn.jpg"
+                          src="images/1.png"
                           alt=""
                   />
               </a>
@@ -106,7 +106,7 @@
                   <img
                           class="rounded-[10px]"
                           style="width: 90%; margin: auto"
-                          src="assets/jhinn.jpg"
+                          src="images/2.jpg"
                           alt=""
                   />
               </a>
@@ -167,7 +167,7 @@
                   <img
                           class="rounded-[10px]"
                           style="width: 90%; margin: auto"
-                          src="assets/jhinn.jpg"
+                          src="images/3.jpg"
                           alt=""
                   />
               </a>
@@ -237,7 +237,7 @@
                       <img
                               class="rounded-[10px]"
                               style="width: 90%; margin: auto"
-                              src="assets/jhinn.jpg"
+                              src="images/4.jpg"
                               alt=""
                       />
                   </a>
@@ -414,7 +414,7 @@
                       <img
                               class="rounded-[10px]"
                               style="width: 90%; margin: auto"
-                              src="assets/jhinn.jpg"
+                              src="images/5.png"
                               alt=""
                       />
                   </a>
@@ -556,7 +556,7 @@
                       <img
                               class="rounded-[10px] h-28"
                               style="width: 90%; margin: auto"
-                              src="assets/jhinn.jpg"
+                              src="images/6.png"
                               alt=""
                       />
                   </a>
