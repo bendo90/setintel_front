@@ -11,7 +11,7 @@
                     <p class="px-5 text-white">Privace policy</p>
                 </div>
                 <div class="pl-14 pr-2">
-                    <p class="font-bold text-white">Company</p>
+                    <p class="font-bold text-white">Setintel</p>
                 </div>
             </div>
             <div class="row-start-2 h-20 flex items-center border-t">
@@ -53,7 +53,7 @@
                 </svg>
             </div>
             <div class="row-start-1 text-white h-20 flex items-center">
-                © 2023 All rights reserved
+                © 2024 All rights reserved
             </div>
             <div class="flex justify-end h-20 items-center border-t">
                 <div>
