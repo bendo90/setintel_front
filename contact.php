@@ -110,7 +110,7 @@
                   </div>
                   <div class="py-3 font-medium text-gray-600">E-Mail:</div>
                   <div class="text-2xl font-bold text-slate-600 pb-2">
-                      Talk@Setintel.eu
+                      Talk@setintel.eu
                   </div>
               </div>
 
@@ -193,9 +193,9 @@
                           </g>
                       </svg>
                   </div>
-                  <div class="py-3 font-medium text-gray-600">E-Mail:</div>
+                  <div class="py-3 font-medium text-gray-600">Address:</div>
                   <div class="text-2xl font-bold text-slate-600 pb-2">
-                      Talk@Setintel.eu
+                      Sh.nutsubidze str. 44b
                   </div>
               </div>
               <div class="bg-white text-center shadow-md p-3 rounded-lg">
@@ -277,9 +277,9 @@
                           </g>
                       </svg>
                   </div>
-                  <div class="py-3 font-medium text-gray-600">E-Mail:</div>
+                  <div class="py-3 font-medium text-gray-600">Number:</div>
                   <div class="text-2xl font-bold text-slate-600 pb-2">
-                      Talk@Setintel.eu
+                      +420 605 528 805
                   </div>
               </div>
           </div>
