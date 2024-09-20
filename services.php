@@ -210,7 +210,7 @@
               </div>
           </div>
       </div>
-      <div class="mt-10 pb-10">
+      <div class="mt-10 pb-40">
           <div
                   style="margin: auto"
                   class="grid grid-cols-3 flex justify-end gap-5 max-w-7xl"
