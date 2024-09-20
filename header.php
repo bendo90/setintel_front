@@ -1,8 +1,5 @@
 <?php
 $p = @$_GET['p'];
-
-echo $p;
-
 ?>
     <header class="bg-white border-b-2 border-solid border-red-900">
       <nav class="mx-auto flex max-w-7xl items-center justify-between p-3.5 lg:px-8" aria-label="Global">
@@ -84,13 +81,13 @@ echo $p;
             <?php
             if($p == "s") {
             ?>
-          <div class="flex justify-center items-center relative h-9 px-6  rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
+            <div class="flex justify-center items-center relative h-9 px-6 cursor-pointer rounded-[20px] border border-[#910101]">
+
               <?php
               } else {
-
               ?>
-              <div class="flex justify-center items-center relative h-9 px-6 cursor-pointer rounded-[20px] border border-[#910101]">
-              <?php
+                <div class="flex justify-center items-center relative h-9 px-6  rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
+                <?php
                }
               ?>
             <a href="services.php" class="text-sm font-semibold leading-6 text-gray-900">Services</a>
