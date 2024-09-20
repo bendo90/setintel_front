@@ -81,44 +81,64 @@ $p = @$_GET['p'];
               <?php } else { ?>
               <div class="flex justify-center items-center relative h-9 px-6  rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
               <?php } ?>
-                 Home
+              Home
               </div>
           </a>
 
-
-            <?php if($p == "s") { ?>
-            <div class="flex justify-center items-center relative h-9 px-6 cursor-pointer rounded-[20px] border border-[#910101]">
-            <?php } else { ?>
+            <a href="services.php?p=s" class="text-sm font-semibold leading-6 text-gray-900">
+                <?php if($p == "s") { ?>
+                <div class="flex justify-center items-center relative h-9 px-6 cursor-pointer rounded-[20px] border border-[#910101]">
+                <?php } else { ?>
                 <div class="flex justify-center items-center relative h-9 px-6  rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
-            <?php } ?>
-                <a href="services.php?p=s" class="text-sm font-semibold leading-6 text-gray-900">Services</a>
-            </div>
+                <?php } ?>
+                Services
+                </div>
+            </a>
 
-             <?php if($p == "w") { ?>
-             <div class="flex justify-center items-center relative h-9 px-6 cursor-pointer rounded-[20px] border border-[#910101]">
-             <?php } else { ?>
+            <a href="whoweare.php?p=w" class="text-sm font-semibold leading-6 text-gray-900">
+                 <?php if($p == "w") { ?>
+                 <div class="flex justify-center items-center relative h-9 px-6 cursor-pointer rounded-[20px] border border-[#910101]">
+                 <?php } else { ?>
+                 <div class="flex justify-center items-center relative h-9 px-6  rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
+                 <?php } ?>
+                 Who we are
+                 </div>
+            </a>
+
+
+            <a href="partners.php?p=p" class="text-sm font-semibold leading-6 text-gray-900">
+                <?php if($p == "p") { ?>
+                <div class="flex justify-center items-center relative h-9 px-6 cursor-pointer rounded-[20px] border border-[#910101]">
+                <?php } else { ?>
                 <div class="flex justify-center items-center relative h-9 px-6  rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
-             <?php } ?>
-                <a href="whoweare.php?p=w" class="text-sm font-semibold leading-6 text-gray-900">Who we are</a>
-             </div>
+                <?php } ?>
+                Partners
+                </div>
+            </a>
 
 
+            <a href="contact.php?p=c" class="text-sm font-semibold leading-6 text-gray-900">
+                <?php if($p == "c") { ?>
+                <div class="flex justify-center items-center relative h-9 px-6 cursor-pointer rounded-[20px] border border-[#910101]">
+                <?php } else { ?>
+                <div class="flex justify-center items-center relative h-9 px-6  rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
+                <?php } ?>
+                Contact
+                </div>
+            </a>
 
-          <div class="flex justify-center items-center relative h-9 px-6  rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
-            <a href="partners.php" class="text-sm font-semibold leading-6 text-gray-900">Partners</a>
-          </div>
-          <div class="flex justify-center items-center relative h-9 px-6  rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
-            <a href="contact.php" class="text-sm font-semibold leading-6 text-gray-900">Contact</a>
-          </div>
+
         </div>
         <div class="hidden lg:flex lg:flex-1 lg:justify-end">
+          <a href="letstalk.php">
           <div class="rounded-[20px] px-3 py-[7px] flex gap-2.5 justify-center items-center relative w-[119px] h-9 bg-[#910101] hover:opacity-90">
-            <a href="letstalk.php">
+
               <p class="text-center font-bold leading-6 text-lg text-[#ececec]">
                 Let’s Talk
               </p>
-            </a>
           </div>
+          </a>
+
         </div>
       </nav>
       <!-- Mobile menu, show/hide based on menu open state. -->
