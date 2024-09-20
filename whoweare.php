@@ -29,7 +29,7 @@
       >
           <div class="w-full md:w-1/2">
               <img
-                      src="your-image-url.jpg"
+                      src="images/7.png"
                       alt="Business Image"
                       class="w-full h-full object-cover"
               />
