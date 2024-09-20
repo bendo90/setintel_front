@@ -18,7 +18,7 @@
 <!--      </video>-->
 
       <p class="rubik-700 cont absolute left-1/2 top-1/2 hidden -translate-x-1/2 -translate-y-1/2 text-center text-[64px] text-white lg:block" style="text-shadow: black 1px 1px 2px">
-        Setintel - When You Need Results
+<!--        Setintel - When You Need Results-->
       </p>
     </div>
 
