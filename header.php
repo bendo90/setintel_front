@@ -77,21 +77,21 @@ $p = @$_GET['p'];
 
 
           <?php if(!$p) { ?>
-          <div class="flex justify-center items-center relative h-9 px-6 cursor-pointer rounded-[20px] border border-[#910101]">
+          <button class="flex justify-center items-center relative h-9 px-6 cursor-pointer rounded-[20px] border border-[#910101]">
           <?php } else { ?>
-          <div class="flex justify-center items-center relative h-9 px-6  rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
+          <button class="flex justify-center items-center relative h-9 px-6  rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
           <?php } ?>
               <a href="index.php" class="text-sm font-semibold leading-6 text-gray-900">Home</a>
-          </div>
+          </button>
 
 
             <?php if($p == "s") { ?>
-            <div class="flex justify-center items-center relative h-9 px-6 cursor-pointer rounded-[20px] border border-[#910101]">
+            <button class="flex justify-center items-center relative h-9 px-6 cursor-pointer rounded-[20px] border border-[#910101]">
             <?php } else { ?>
-                <div class="flex justify-center items-center relative h-9 px-6  rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
+                <button class="flex justify-center items-center relative h-9 px-6  rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
             <?php } ?>
                 <a href="services.php?p=s" class="text-sm font-semibold leading-6 text-gray-900">Services</a>
-            </div>
+            </button>
 
              <?php if($p == "w") { ?>
              <div class="flex justify-center items-center relative h-9 px-6 cursor-pointer rounded-[20px] border border-[#910101]">
