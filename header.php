@@ -235,7 +235,7 @@ $p = @$_GET['p'];
               </svg>
             </button>
           </div>
-          <div class="mt-6 flow-root">
+          <div class="mt-6 flow-root hidden">
             <div class="-my-6 divide-y divide-gray-500/10">
 
 
