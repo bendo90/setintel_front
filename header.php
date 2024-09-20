@@ -1,4 +1,9 @@
+<?php
+$p = @$_GET['p'];
 
+echo $p;
+
+?>
     <header class="bg-white border-b-2 border-solid border-red-900">
       <nav class="mx-auto flex max-w-7xl items-center justify-between p-3.5 lg:px-8" aria-label="Global">
         <div class="flex lg:flex-1">
