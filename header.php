@@ -88,7 +88,6 @@ echo $p;
               <?php
               } else {
 
-              }
               ?>
               <div class="flex justify-center items-center relative h-9 px-6 cursor-pointer rounded-[20px] border border-[#910101]">
               <?php
