@@ -293,7 +293,7 @@
 
 
 
-  <div class="h-80 flex justify-center items-center">
+  <div class="h-60 flex justify-center items-center">
   </div>
 
 
