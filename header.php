@@ -73,24 +73,24 @@
 
         <div class="hidden lg:flex lg:gap-x-1">
           <button class="flex justify-center items-center relative h-9 px-6 cursor-pointer rounded-[20px] border border-[#910101]">
-            <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Home</a>
+            <a href="index.php" class="text-sm font-semibold leading-6 text-gray-900">Home</a>
           </button>
           <div class="flex justify-center items-center relative h-9 px-6  rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
-            <a href="service.html" class="text-sm font-semibold leading-6 text-gray-900">Services</a>
+            <a href="service.php" class="text-sm font-semibold leading-6 text-gray-900">Services</a>
           </div>
           <div class="flex justify-center items-center relative h-9 px-6 rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
-            <a href="whoweare.html" class="text-sm font-semibold leading-6 text-gray-900">Who we are</a>
+            <a href="whoweare.php" class="text-sm font-semibold leading-6 text-gray-900">Who we are</a>
           </div>
           <div class="flex justify-center items-center relative h-9 px-6  rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
-            <a href="partners.html" class="text-sm font-semibold leading-6 text-gray-900">Partners</a>
+            <a href="partners.php" class="text-sm font-semibold leading-6 text-gray-900">Partners</a>
           </div>
           <div class="flex justify-center items-center relative h-9 px-6  rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
-            <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Contact</a>
+            <a href="contact.php" class="text-sm font-semibold leading-6 text-gray-900">Contact</a>
           </div>
         </div>
         <div class="hidden lg:flex lg:flex-1 lg:justify-end">
           <div class="rounded-[20px] px-3 py-[7px] flex gap-2.5 justify-center items-center relative w-[119px] h-9 bg-[#910101] hover:opacity-90">
-            <a href="letstalk.html">
+            <a href="letstalk.php">
               <p class="text-center font-bold leading-6 text-lg text-[#ececec]">
                 Let’s Talk
               </p>
