@@ -27,7 +27,7 @@
 
     <div class="h-16"></div>
     <div class="bg-red-700 flex items-center justify-center" style="background-color: rgb(112, 8, 8)">
-      <div class="bg-white rounded-lg max-w-7xl p-6 md:p-12 shadow-lg -mt-12">
+      <div class="bg-white rounded-lg max-w-7xl p-6 md:p-12 shadow-lg -mt-12 mb-20">
         <h1 class="text-center text-3xl font-bold mb-6 text-gray-800">
           Setintel - Where Sports And Innovation Play Together
         </h1>
@@ -73,8 +73,6 @@
     </div>
 
 
-  <div class="h-40 flex justify-center items-center">
-  </div>
 
 
   <?php include ("footer.php"); ?>
