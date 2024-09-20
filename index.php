@@ -9,7 +9,7 @@
   <body>
   <?php include ("header.php"); ?>
 
-    <div id="heroVideoContainer" class="relative h-[calc(50vh-54px)] w-full overflow-hidden lg:h-[calc(50vh-78px)] bg-[url('./images/banner.png')]">
+    <div id="heroVideoContainer" class="relative h-[calc(50vh-54px)] w-full overflow-hidden lg:h-[calc(50vh-78px)] bg-[url('./images/banner1.png')]">
 <!--      <video autoplay muted>-->
 <!--        <source src="./assets/home-Ck27GsdL.mp4" type="video/mp4" />-->
 <!--        <source src="./assets/home-qvvV6RXz.webm" type="video/webm" />-->
@@ -18,7 +18,7 @@
 <!--      </video>-->
 
       <p class="rubik-700 cont absolute left-1/2 top-1/2 hidden -translate-x-1/2 -translate-y-1/2 text-center text-[64px] text-white lg:block" style="text-shadow: black 1px 1px 2px">
-<!--        Setintel - When You Need Results-->
+        When Sports and Innovation Play Together
       </p>
     </div>
 
