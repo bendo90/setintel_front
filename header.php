@@ -142,7 +142,7 @@ $p = @$_GET['p'];
         </div>
       </nav>
       <!-- Mobile menu, show/hide based on menu open state. -->
-      <div class="lg:hidden" role="dialog" aria-modal="true">
+      <div class="lg:hidden hidden" role="dialog" aria-modal="true">
         <!-- Background backdrop, show/hide based on slide-over state. -->
         <div class="fixed inset-0 z-10"></div>
         <div
@@ -235,7 +235,7 @@ $p = @$_GET['p'];
               </svg>
             </button>
           </div>
-          <div class="mt-6 flow-root hidden">
+          <div class="mt-6 flow-root">
             <div class="-my-6 divide-y divide-gray-500/10">
 
 
