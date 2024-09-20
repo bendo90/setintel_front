@@ -18,8 +18,7 @@
 
   <div
           style="background-color: #f0f9fa"
-          class="h-40 flex justify-center items-center"
-  >
+          class="h-40 flex justify-center items-center">
       <p class="text-red-900 font-bold text-4xl">Services</p>
   </div>
 
@@ -674,9 +673,8 @@
 
 
 
-
-
-
+  <div class="h-40 flex justify-center items-center">
+  </div>
 
 
 
