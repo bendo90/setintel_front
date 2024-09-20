@@ -114,7 +114,7 @@
                   </div>
               </div>
 
-              <div class="bg-white text-center shadow-md p-3 rounded-lg px-16">
+              <div class="bg-white text-center shadow-md p-3 rounded-lg px-22">
                   <div class="-mt-7 flex justify-center">
                       <svg
                               width="49"
