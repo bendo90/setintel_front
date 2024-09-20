@@ -64,7 +64,7 @@
           <div class="md:w-1/3 flex justify-center mt-6 md:mt-0">
             <img
               class="rounded-lg shadow-lg w-full max-w-xs"
-              src="images/9.jpg"
+              src="images/9.png"
               alt="Working on laptop"
             />
           </div>
