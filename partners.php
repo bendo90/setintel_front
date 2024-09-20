@@ -12,10 +12,7 @@
 
 
 
-  <div
-
-          class="h-40 flex justify-center items-center"
-  >
+  <div class="h-40 flex justify-center items-center">
       <p class="text-red-900 font-bold text-4xl">Partners</p>
   </div>
 
@@ -219,7 +216,7 @@
               </div>
           </div>
 
-
+      </div>
 
 
 
