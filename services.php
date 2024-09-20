@@ -568,9 +568,7 @@
                           Noteworthy technology acquisitions 2021
                         </h5> -->
                       </a>
-                      <div class="flex justify-center items-center">
-                          <p class="font-bold text-3xl">?</p>
-                      </div>
+
                       <div
                               class="bg-red-900 mt-6 pt-3 rounded-lg w-full flex justify-center items-center"
                               style="width: 90%; margin: 30px auto"
