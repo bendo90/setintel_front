@@ -4,7 +4,7 @@ $p = @$_GET['p'];
     <header class="bg-white border-b-2 border-solid border-red-900">
       <nav class="mx-auto flex max-w-7xl items-center justify-between p-3.5 lg:px-8" aria-label="Global">
         <div class="flex lg:flex-1">
-          <a href="#" class="-m-1.5 p-1.5">
+          <a href="index.php" class="-m-1.5 p-1.5">
             <svg
               width="180"
               height="36"
