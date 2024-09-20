@@ -30,7 +30,7 @@
       >
           <div
                   style="width: 100%; margin: 0 auto"
-                  class="max-w-sm bg-white border border-gray-200 rounded-lg shadow h-100 dark:bg-gray-800 dark:border-gray-700"
+                  class="max-w-sm bg-white border border-gray-200 rounded-lg shadow h-100"
           >
               <div
                       style="text-align: center; padding-bottom: 15px; padding-top: 10px"
