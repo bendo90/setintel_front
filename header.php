@@ -74,26 +74,35 @@ $p = @$_GET['p'];
         </div>
 
         <div class="hidden lg:flex lg:gap-x-1">
+
+
+          <?php if(!$p) { ?>
           <div class="flex justify-center items-center relative h-9 px-6 cursor-pointer rounded-[20px] border border-[#910101]">
-            <a href="index.php" class="text-sm font-semibold leading-6 text-gray-900">Home</a>
+          <?php } else { ?>
+          <div class="flex justify-center items-center relative h-9 px-6  rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
+          <?php } ?>
+              <a href="index.php" class="text-sm font-semibold leading-6 text-gray-900">Home</a>
           </div>
+
 
             <?php if($p == "s") { ?>
             <div class="flex justify-center items-center relative h-9 px-6 cursor-pointer rounded-[20px] border border-[#910101]">
-              <?php } else { ?>
+            <?php } else { ?>
                 <div class="flex justify-center items-center relative h-9 px-6  rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
-              <?php } ?>
-            <a href="services.php?p=s" class="text-sm font-semibold leading-6 text-gray-900">Services</a>
-          </div>
+            <?php } ?>
+                <a href="services.php?p=s" class="text-sm font-semibold leading-6 text-gray-900">Services</a>
+            </div>
+
+             <?php if($p == "w") { ?>
+             <div class="flex justify-center items-center relative h-9 px-6 cursor-pointer rounded-[20px] border border-[#910101]">
+             <?php } else { ?>
+                <div class="flex justify-center items-center relative h-9 px-6  rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
+             <?php } ?>
+                <a href="whoweare.php?p=w" class="text-sm font-semibold leading-6 text-gray-900">Who we are</a>
+             </div>
 
 
-                <?php if($p == "w") { ?>
-                <div class="flex justify-center items-center relative h-9 px-6 cursor-pointer rounded-[20px] border border-[#910101]">
-                    <?php } else { ?>
-                    <div class="flex justify-center items-center relative h-9 px-6  rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
-                        <?php } ?>
-                        <a href="whoweare.php?p=w" class="text-sm font-semibold leading-6 text-gray-900">Who we are</a>
-          </div>
+
           <div class="flex justify-center items-center relative h-9 px-6  rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
             <a href="partners.php" class="text-sm font-semibold leading-6 text-gray-900">Partners</a>
           </div>
