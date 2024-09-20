@@ -27,7 +27,7 @@
   >
       <div class="mx-auto max-w-7xl lg:px-8">
           <div
-                  class="grid grid-cols-1 lg:grid-cols-3 grid-rows-1 gap-10 mx-auto max-w-7xl flex items-center justify-beetwen lg:px-8"
+                  class="grid grid-cols-1 lg:grid-cols-3 grid-cols-1 grid-rows-1 gap-10 mx-auto max-w-7xl flex items-center justify-beetwen lg:px-8"
           >
               <div class="bg-white text-center shadow-md p-3 rounded-lg">
                   <div class="-mt-7 flex justify-center">
