@@ -27,7 +27,7 @@
               </p>
           </div>
           <a href="#">
-              <img class="rounded-[10px] h-48 w-11/12" src="images/1.png" alt=""/>
+              <img class="rounded-[10px] h-48 w-11/12 m-auto" src="images/1.png" alt=""/>
           </a>
           <div class="pt-5" style="width: 80%; margin: auto">
               <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
@@ -65,7 +65,7 @@
               </p>
           </div>
           <a href="#">
-              <img class="rounded-[10px] h-48" style="width: 90%; margin: auto" src="images/2.jpg" alt="" />
+              <img class="rounded-[10px] h-48 w-11/12 m-auto" src="images/2.jpg" alt="" />
           </a>
           <div class="pt-5" style="width: 80%; margin: auto">
               <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
@@ -104,7 +104,7 @@
               </p>
           </div>
           <a href="#">
-              <img class="rounded-[10px] h-48" style="width: 90%; margin: auto" src="images/3.jpg" alt=""/>
+              <img class="rounded-[10px] h-48 w-11/12 m-auto" src="images/3.jpg" alt=""/>
           </a>
           <div class="pt-5" style="width: 80%; margin: auto">
               <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
@@ -143,7 +143,7 @@
               </p>
           </div>
           <a href="#">
-              <img class="rounded-[10px] h-48" style="width: 90%; margin: auto" src="images/4.jpg" alt=""/>
+              <img class="rounded-[10px] h-48 w-11/12 m-auto" src="images/4.jpg" alt=""/>
           </a>
           <div class="pt-5" style="width: 80%; margin: auto">
               <div class="flex pt-5">
@@ -297,7 +297,7 @@
               </p>
           </div>
           <a href="#">
-              <img class="rounded-[10px] h-48" style="width: 90%; margin: auto" src="images/5.png" alt=""/>
+              <img class="rounded-[10px] h-48 w-11/12 m-auto" src="images/5.png" alt=""/>
           </a>
           <div class="pt-5" style="width: 80%; margin: auto">
               <div class="flex pt-5">
@@ -416,7 +416,7 @@
               </p>
           </div>
           <a href="#">
-              <img class="rounded-[10px] h-28" style="width: 90%; margin: auto" src="images/6.png" alt=""/>
+              <img class="rounded-[10px] h-28 w-11/12 m-auto" src="images/6.png" alt=""/>
           </a>
           <div class="pt-5" style="margin: auto">
               <div class="bg-red-900 mt-6 pt-3 rounded-lg w-full flex justify-center items-center" style="width: 90%; margin: 30px auto">
