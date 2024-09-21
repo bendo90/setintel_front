@@ -131,9 +131,9 @@ $p = @$_GET['p'];
         </div>
         <div class="hidden lg:flex lg:flex-1 lg:justify-end">
           <a href="letstalk.php">
-          <div class="rounded-[20px] px-3 py-[7px] flex gap-2.5 justify-center items-center relative w-[119px] h-9 border-[#910101] bg-[#910101] hover:bg-white">
+          <div class="rounded-[20px] px-3 py-[7px] flex gap-2.5 justify-center items-center relative w-[119px] h-9 border-[#910101] bg-[#910101] hover:bg-white text-white hover:text-[#910101]">
 
-              <p class="text-center font-bold leading-6 text-lg text-white hover:text-[#910101]">
+              <p class="text-center font-bold leading-6 text-lg">
                 Let’s Talk
               </p>
           </div>
