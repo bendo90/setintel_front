@@ -11,7 +11,9 @@
 
 
 
-
+  <div class="h-40 flex justify-center items-center">
+      <p class="text-red-900 font-bold text-4xl">Contact</p>
+  </div>
 
 
 

@@ -10,11 +10,10 @@
   <?php include ("header.php"); ?>
 
 
-
-
   <div class="h-40 flex justify-center items-center">
       <p class="text-red-900 font-bold text-4xl">Partners</p>
   </div>
+
 
   <div class="max-w-7xl mx-auto py-2 lg:px-8">
 
