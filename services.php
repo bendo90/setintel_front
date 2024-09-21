@@ -17,8 +17,48 @@
 
 
 
-  <div class="grid grid-cols-3 gap-4 max-w-7xl">
-      <div>01</div>
+  <div class="grid grid-cols-3 gap-4 mx-auto max-w-7xl p-3.5 lg:px-8">
+      <div style="width: 100%; margin: 0 auto" class="max-w-sm bg-white border border-gray-200 rounded-lg shadow h-100">
+          <div style="text-align: center; padding-bottom: 15px; padding-top: 10px">
+              <p class="pt-2 font-bold text-2xl" style="color: rgba(53, 47, 47, 0.822)">
+                  Partnership Integration
+              </p>
+          </div>
+          <a href="#">
+              <img
+                      class="rounded-[10px]"
+                      style="width: 90%; margin: auto"
+                      src="images/1.png"
+                      alt=""
+              />
+          </a>
+          <div class="pt-5" style="width: 80%; margin: auto">
+              <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+                  We specialize in creating dynamic partnerships with local sports
+                  media and broadcasters, delivering innovative inventory solutions
+                  that drive growth and engagement.
+              </p>
+              <div class="pb-5 pt-5">
+                  <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-teal-400 rounded-lg focus:ring-4 focus:outline-none ">
+                      Read more
+                      <svg
+                              class="rtl:rotate-180 w-3.5 h-3.5 ms-2"
+                              aria-hidden="true"
+                              xmlns="http://www.w3.org/2000/svg"
+                              fill="none"
+                              viewBox="0 0 14 10">
+                          <path
+                                  stroke="currentColor"
+                                  stroke-linecap="round"
+                                  stroke-linejoin="round"
+                                  stroke-width="2"
+                                  d="M1 5h12m0 0L9 1m4 4L9 9"
+                          />
+                      </svg>
+                  </a>
+              </div>
+          </div>
+      </div>
       <div>02</div>
       <div>03</div>
       <div>04</div>
