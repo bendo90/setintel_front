@@ -29,7 +29,7 @@
           <a href="#">
               <img class="rounded-[10px] h-48 w-11/12 m-auto" src="images/1.png" alt=""/>
           </a>
-          <div class="pt-5" style="width: 80%; margin: auto">
+          <div class="pt-5 w-11/12 m-auto">
               <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
                   We specialize in creating dynamic partnerships with local sports
                   media and broadcasters, delivering innovative inventory solutions
@@ -67,7 +67,7 @@
           <a href="#">
               <img class="rounded-[10px] h-48 w-11/12 m-auto" src="images/2.jpg" alt="" />
           </a>
-          <div class="pt-5" style="width: 80%; margin: auto">
+          <div class="pt-5 w-11/12 m-auto">
               <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
                   Our strong experience in integrating gambling companies into
                   sports OTT platforms ensures seamless and effective collaborations
@@ -106,7 +106,7 @@
           <a href="#">
               <img class="rounded-[10px] h-48 w-11/12 m-auto" src="images/3.jpg" alt=""/>
           </a>
-          <div class="pt-5" style="width: 80%; margin: auto">
+          <div class="pt-5 w-11/12 m-auto">
               <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
                   Seamlessly integrate partner campaigns on the Setanta Sports
                   landing page, driving traffic and engagement with compelling
@@ -145,7 +145,7 @@
           <a href="#">
               <img class="rounded-[10px] h-48 w-11/12 m-auto" src="images/4.jpg" alt=""/>
           </a>
-          <div class="pt-5" style="width: 80%; margin: auto">
+          <div class="pt-5 w-11/12 m-auto">
               <div class="flex pt-5">
                   <svg
                           width="40"
@@ -299,7 +299,7 @@
           <a href="#">
               <img class="rounded-[10px] h-48 w-11/12 m-auto" src="images/5.png" alt=""/>
           </a>
-          <div class="pt-5" style="width: 80%; margin: auto">
+          <div class="pt-5 w-11/12 m-auto">
               <div class="flex pt-5">
                   <svg
                           width="40"
@@ -418,7 +418,7 @@
           <a href="#">
               <img class="rounded-[10px] h-28 w-11/12 m-auto" src="images/6.png" alt=""/>
           </a>
-          <div class="pt-5" style="margin: auto">
+          <div class="pt-5 w-11/12 m-auto">
               <div class="bg-red-900 mt-6 pt-3 rounded-lg w-full flex justify-center items-center" style="width: 90%; margin: 30px auto">
                   <div>
                       <div class="flex justify-center items-center pt-2">
