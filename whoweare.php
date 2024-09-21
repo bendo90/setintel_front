@@ -27,7 +27,7 @@
               <img
                       src="images/7.png"
                       alt="Business Image"
-                      class="w-full h-full object-cover"
+                      class="w-full h-full object-cover rounded-l-lg"
               />
           </div>
 
