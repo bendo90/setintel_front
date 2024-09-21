@@ -143,7 +143,7 @@
               </p>
           </div>
           <a href="#">
-              <img class="rounded-[10px] h-50" style="width: 90%; margin: auto" src="images/4.jpg" alt=""/>
+              <img class="rounded-[10px] h-48" style="width: 90%; margin: auto" src="images/4.jpg" alt=""/>
           </a>
           <div class="pt-5" style="width: 80%; margin: auto">
               <div class="flex pt-5">
@@ -297,12 +297,7 @@
               </p>
           </div>
           <a href="#">
-              <img
-                      class="rounded-[10px] h-50"
-                      style="width: 90%; margin: auto"
-                      src="images/5.png"
-                      alt=""
-              />
+              <img class="rounded-[10px] h-48" style="width: 90%; margin: auto" src="images/5.png" alt=""/>
           </a>
           <div class="pt-5" style="width: 80%; margin: auto">
               <div class="flex pt-5">
