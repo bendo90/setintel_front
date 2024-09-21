@@ -16,7 +16,7 @@
 
 
 
-  <section class="flex flex-col items-center lg:mt-10 mx-5">
+  <section class="flex flex-col items-center mx-5">
       <div
               class="p-10 shadow-lg rounded-lg w-full max-w-6xl"
               style="background: rgba(106, 199, 209, 0.1)"
