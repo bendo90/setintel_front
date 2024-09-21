@@ -11,16 +11,12 @@
 
 
 
-
-
-
-
-  <div
-          style="width: 80%; margin: auto"
-          class="h-40 flex justify-center items-center"
-  >
-      <h1 class="mt-6 text-red-900 font-bold text-5xl">Who We Are?</h1>
+  <div class="h-40 flex justify-center items-center">
+      <p class="text-red-900 font-bold text-4xl">Who We Are?</p>
   </div>
+
+
+
   <div class="flex justify-center items-center pt-8">
       <div
               class="mx-auto max-w-7xl rounded-lg shadow-lg flex flex-col md:flex-row"

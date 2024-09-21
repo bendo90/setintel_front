@@ -11,16 +11,12 @@
 
 
 
-
-
-
-
-
-  <div
-          style="background-color: #f0f9fa"
-          class="h-40 flex justify-center items-center">
+  <div class="h-40 flex justify-center items-center" style="background-color: #f0f9fa">
       <p class="text-red-900 font-bold text-4xl">Services</p>
   </div>
+
+
+
 
   <div style="background-color: #f0f9fa">
       <div

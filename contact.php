@@ -17,12 +17,7 @@
 
 
 
-  <div
-          style="width: 80%; margin: auto"
-          class="h-40 flex justify-center items-center"
-  >
-      <h1 class="lg:mt-6 text-red-900 font-bold text-3xl">Contact</h1>
-  </div>
+
   <div
           style="background: rgba(106, 199, 209, 0.1)"
           class="lg:w-full px-10 py-20 mb-10"
