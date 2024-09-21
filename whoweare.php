@@ -17,18 +17,10 @@
 
 
 
-  <div class="flex justify-center items-center pt-8">
-      <div
-              class="mx-auto max-w-7xl rounded-lg shadow-lg flex flex-col md:flex-row"
-              style="background-color: #ade0e5"
-              style="width: 70%; margin: auto"
-      >
+  <div class="flex justify-center items-center pb-14">
+      <div class="mx-auto max-w-7xl rounded-lg shadow-lg flex flex-col md:flex-row" style="background-color: #ade0e5" style="width: 70%; margin: auto">
           <div class="w-full md:w-1/2">
-              <img
-                      src="images/7.png"
-                      alt="Business Image"
-                      class="w-full h-full object-cover rounded-l-lg"
-              />
+              <img src="images/7.png" alt="Business Image" class="w-full h-full object-cover rounded-l-lg"/>
           </div>
 
           <div class="w-full md:w-1/2 p-6 md:p-10">
