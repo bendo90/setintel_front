@@ -27,7 +27,7 @@
               </p>
           </div>
           <a href="#">
-              <img class="rounded-[10px] h-48" style="width: 90%; margin: auto" src="images/1.png" alt=""/>
+              <img class="rounded-[10px] h-48 w-11/12" src="images/1.png" alt=""/>
           </a>
           <div class="pt-5" style="width: 80%; margin: auto">
               <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
