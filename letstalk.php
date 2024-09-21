@@ -10,15 +10,10 @@
   <?php include ("header.php"); ?>
 
 
-
-  <div
-          style="width: 80%; margin: auto"
-          class="h-20 lg:h-40 flex justify-center items-center"
-  >
-      <h1 class="lg:mt-6 text-red-900 font-bold lg:text-5xl text-3xl">
-          Let`s Talk
-      </h1>
+  <div class="h-40 flex justify-center items-center">
+      <p class="text-red-900 font-bold text-4xl">Let`s Talk</p>
   </div>
+
 
 
   <section class="flex flex-col items-center lg:mt-10 mx-5">
