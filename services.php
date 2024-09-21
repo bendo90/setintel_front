@@ -17,23 +17,22 @@
 
 
 
+  <div class="grid grid-cols-3 gap-4">
+      <div>01</div>
+      <div>01</div>
+      <div>01</div>
+      <div>01</div>
+      <div>01</div>
+      <div>09</div>
+  </div>
+
 
   <div style="background-color: #f0f9fa">
-      <div
-              style="margin: auto"
-              class="grid grid-cols-3 flex justify-end gap-5 max-w-7xl"
-      >
-          <div
-                  style="width: 100%; margin: 0 auto"
-                  class="max-w-sm bg-white border border-gray-200 rounded-lg shadow h-100"
-          >
-              <div
-                      style="text-align: center; padding-bottom: 15px; padding-top: 10px"
-              >
-                  <p
-                          class="pt-2 font-bold text-2xl"
-                          style="color: rgba(53, 47, 47, 0.822)"
-                  >
+      <div style="margin: auto" class="grid grid-cols-3 flex justify-end gap-5 max-w-7xl">
+
+          <div style="width: 100%; margin: 0 auto" class="max-w-sm bg-white border border-gray-200 rounded-lg shadow h-100">
+              <div style="text-align: center; padding-bottom: 15px; padding-top: 10px">
+                  <p class="pt-2 font-bold text-2xl" style="color: rgba(53, 47, 47, 0.822)">
                       Partnership Integration
                   </p>
               </div>
@@ -46,31 +45,20 @@
                   />
               </a>
               <div class="pt-5" style="width: 80%; margin: auto">
-                  <a href="#">
-                      <!-- <h5
-                        class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
-                      >
-                        Noteworthy technology acquisitions 2021
-                      </h5> -->
-                  </a>
                   <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
                       We specialize in creating dynamic partnerships with local sports
                       media and broadcasters, delivering innovative inventory solutions
                       that drive growth and engagement.
                   </p>
                   <div class="pb-5 pt-5">
-                      <a
-                              href="#"
-                              class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-teal-400 rounded-lg focus:ring-4 focus:outline-none "
-                      >
+                      <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-teal-400 rounded-lg focus:ring-4 focus:outline-none ">
                           Read more
                           <svg
                                   class="rtl:rotate-180 w-3.5 h-3.5 ms-2"
                                   aria-hidden="true"
                                   xmlns="http://www.w3.org/2000/svg"
                                   fill="none"
-                                  viewBox="0 0 14 10"
-                          >
+                                  viewBox="0 0 14 10">
                               <path
                                       stroke="currentColor"
                                       stroke-linecap="round"
@@ -84,46 +72,23 @@
               </div>
           </div>
 
-          <div
-                  style="width: 100%; margin: 0 auto"
-                  class="max-w-sm bg-white border border-gray-200 rounded-lg h-100 shadow "
-          >
-              <div
-                      style="text-align: center; padding-bottom: 15px; padding-top: 10px"
-              >
-                  <p
-                          class="pt-2 font-bold text-2xl"
-                          style="color: rgba(53, 47, 47, 0.822)"
-                  >
+          <div style="width: 100%; margin: 0 auto" class="max-w-sm bg-white border border-gray-200 rounded-lg h-100 shadow ">
+              <div style="text-align: center; padding-bottom: 15px; padding-top: 10px">
+                  <p class="pt-2 font-bold text-2xl" style="color: rgba(53, 47, 47, 0.822)">
                       Partnership Integration
                   </p>
               </div>
               <a href="#">
-                  <img
-                          class="rounded-[10px]"
-                          style="width: 90%; margin: auto"
-                          src="images/2.jpg"
-                          alt=""
-                  />
+                  <img class="rounded-[10px]" style="width: 90%; margin: auto" src="images/2.jpg" alt="" />
               </a>
               <div class="pt-5" style="width: 80%; margin: auto">
-                  <a href="#">
-                      <!-- <h5
-                        class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
-                      >
-                        Noteworthy technology acquisitions 2021
-                      </h5> -->
-                  </a>
                   <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
                       Our strong experience in integrating gambling companies into
                       sports OTT platforms ensures seamless and effective collaborations
                       that maximize your brand’s visibility and impact
                   </p>
                   <div class="pb-5 pt-5">
-                      <a
-                              href="#"
-                              class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-teal-400 rounded-lg focus:ring-4 focus:outline-none  "
-                      >
+                      <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-teal-400 rounded-lg focus:ring-4 focus:outline-none">
                           Read more
                           <svg
                                   class="rtl:rotate-180 w-3.5 h-3.5 ms-2"
@@ -145,46 +110,23 @@
               </div>
           </div>
 
-          <div
-                  style="width: 100%; margin: 0 auto"
-                  class="max-w-sm bg-white border border-gray-200 rounded-lg h-100 shadow"
-          >
-              <div
-                      style="text-align: center; padding-bottom: 15px; padding-top: 10px"
-              >
-                  <p
-                          class="pt-2 font-bold text-2xl"
-                          style="color: rgba(53, 47, 47, 0.822)"
-                  >
+          <div style="width: 100%; margin: 0 auto" class="max-w-sm bg-white border border-gray-200 rounded-lg h-100 shadow">
+              <div style="text-align: center; padding-bottom: 15px; padding-top: 10px">
+                  <p class="pt-2 font-bold text-2xl" style="color: rgba(53, 47, 47, 0.822)">
                       Partnership Integration
                   </p>
               </div>
               <a href="#">
-                  <img
-                          class="rounded-[10px]"
-                          style="width: 90%; margin: auto"
-                          src="images/3.jpg"
-                          alt=""
-                  />
+                  <img class="rounded-[10px]" style="width: 90%; margin: auto" src="images/3.jpg" alt=""/>
               </a>
               <div class="pt-5" style="width: 80%; margin: auto">
-                  <a href="#">
-                      <!-- <h5
-                        class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
-                      >
-                        Noteworthy technology acquisitions 2021
-                      </h5> -->
-                  </a>
                   <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
                       Seamlessly integrate partner campaigns on the Setanta Sports
                       landing page, driving traffic and engagement with compelling
                       offers.
                   </p>
                   <div class="pb-5 pt-10">
-                      <a
-                              href="#"
-                              class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-teal-400 rounded-lg focus:ring-4 focus:outline-none "
-                      >
+                      <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-teal-400 rounded-lg focus:ring-4 focus:outline-none ">
                           Read more
                           <svg
                                   class="rtl:rotate-180 w-3.5 h-3.5 ms-2"
@@ -205,7 +147,10 @@
                   </div>
               </div>
           </div>
+
       </div>
+
+
       <div class="mt-10 pb-40">
           <div
                   style="margin: auto"
