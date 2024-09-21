@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="assets/style.css" />
     <script src="https://cdn.tailwindcss.com"></script>
   </head>
-  <body>
+  <body style="background-color: #f0f9fa">
   <?php include ("header.php"); ?>
 
 
