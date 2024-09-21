@@ -418,8 +418,8 @@
           <a href="#">
               <img class="rounded-[10px] h-28 w-11/12 m-auto" src="images/6.png" alt=""/>
           </a>
-          <div class="pt-5 w-10/12 m-auto">
-              <div class="bg-red-900 mt-6 pt-3 rounded-lg w-full flex justify-center items-center" style="width: 90%; margin: 30px auto">
+          <div class="pt-5 w-11/12 m-auto">
+              <div class="bg-red-900 mt-6 pt-3 rounded-lg w-full flex justify-center items-center">
                   <div>
                       <div class="flex justify-center items-center pt-2">
                           <svg
