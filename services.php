@@ -17,7 +17,7 @@
 
 
 
-  <div class="grid grid-cols-3 gap-10 mx-auto max-w-7xl mb-12 lg:px-8">
+  <div class="grid grid-cols-3 sm:grid-cols-1 gap-10 mx-auto max-w-7xl mb-24 lg:px-8">
 
 
       <div style="width: 100%; margin: 0 auto" class="max-w-sm bg-white border border-gray-200 rounded-lg shadow h-100">
