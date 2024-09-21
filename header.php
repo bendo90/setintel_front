@@ -133,7 +133,7 @@ $p = @$_GET['p'];
           <a href="letstalk.php">
           <div class="rounded-[20px] px-3 py-[7px] flex gap-2.5 justify-center items-center relative w-[119px] h-9 bg-[#910101] hover:opacity-90">
 
-              <p class="text-center font-bold leading-6 text-lg text-[#ececec]">
+              <p class="text-center font-bold leading-6 text-lg text-white">
                 Let’s Talk
               </p>
           </div>
