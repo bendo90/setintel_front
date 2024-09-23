@@ -82,7 +82,6 @@
 </footer>
 
 
-<footer class="lg:hidden text-white py-10 border-t-4 border-solid border-red-900" style="background-color: #303030">
 
 <footer class="hidden lg:block w-full h-60 border-t-4 border-solid border-red-900 flex items-center" style="background-color: #303030">
     <div class="mx-auto max-w-7xl w-full h-40">
