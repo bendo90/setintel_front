@@ -100,7 +100,6 @@
         <div class="grid grid-cols-2 grid-rows-2 gap-0">
             <div class="flex justify-between h-20 items-center">
                 <div>
-                    <p class="font-bold text-white"></p>
                 </div>
                 <div>
                     <p class="font-bold text-white">SETINTEL</p>
@@ -126,6 +125,8 @@
                 © 2024 All rights reserved
             </div>
             <div class="flex justify-between h-20 items-center border-t">
+                <div>
+                </div>
                 <div>
                     <p class="font-bold text-white pr-36">Follow us</p>
                 </div>
