@@ -1,5 +1,5 @@
 <footer
-        class="block md-hidden text-white py-10 border-t-4 border-solid border-red-900"
+        class="lg:hidden text-white py-10 border-t-4 border-solid border-red-900"
         style="background-color: #303030"
 >
     <div class="container mx-auto text-center">
