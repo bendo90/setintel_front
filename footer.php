@@ -82,11 +82,11 @@
 </footer>
 
 <div class="grid grid-cols-2 grid-rows-2 gap-0">
-    <div class="flex ...">
+    <div class="flex w-2/5">
         <div class="w-1/2 ... ">w-1/2</div>
         <div class="w-1/2 ... ">w-1/2</div>
     </div>
-    <div class="flex ...">
+    <div class="flex w-3/5">
         <div class="w-2/5 ...">w-2/5</div>
         <div class="w-3/5 ...">w-3/5</div>
     </div>
