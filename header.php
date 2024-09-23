@@ -35,9 +35,9 @@ $p = @$_GET['p'];
 
           <a href="index.php" class="text-sm font-semibold leading-6 text-gray-900">
               <?php if(!$p) { ?>
-              <div class="flex justify-center items-center relative h-9 px-6 cursor-pointer rounded-[20px] border border-[#910101]">
+              <div class="flex justify-center items-center relative h-9 px-4 cursor-pointer rounded-[20px] border border-[#910101]">
               <?php } else { ?>
-              <div class="flex justify-center items-center relative h-9 px-6  rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
+              <div class="flex justify-center items-center relative h-9 px-4  rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
               <?php } ?>
               Home
               </div>
@@ -45,9 +45,9 @@ $p = @$_GET['p'];
 
             <a href="services.php?p=s" class="text-sm font-semibold leading-6 text-gray-900">
                 <?php if($p == "s") { ?>
-                <div class="flex justify-center items-center relative h-9 px-6 cursor-pointer rounded-[20px] border border-[#910101]">
+                <div class="flex justify-center items-center relative h-9 px-4 cursor-pointer rounded-[20px] border border-[#910101]">
                 <?php } else { ?>
-                <div class="flex justify-center items-center relative h-9 px-6  rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
+                <div class="flex justify-center items-center relative h-9 px-4  rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
                 <?php } ?>
                 Services
                 </div>
@@ -55,9 +55,9 @@ $p = @$_GET['p'];
 
             <a href="whoweare.php?p=w" class="text-sm font-semibold leading-6 text-gray-900">
                  <?php if($p == "w") { ?>
-                 <div class="flex justify-center items-center relative h-9 px-6 cursor-pointer rounded-[20px] border border-[#910101]">
+                 <div class="flex justify-center items-center relative h-9 px-4 cursor-pointer rounded-[20px] border border-[#910101]">
                  <?php } else { ?>
-                 <div class="flex justify-center items-center relative h-9 px-6  rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
+                 <div class="flex justify-center items-center relative h-9 px-4  rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
                  <?php } ?>
                  Who we are
                  </div>
@@ -66,9 +66,9 @@ $p = @$_GET['p'];
 
             <a href="partners.php?p=p" class="text-sm font-semibold leading-6 text-gray-900">
                 <?php if($p == "p") { ?>
-                <div class="flex justify-center items-center relative h-9 px-6 cursor-pointer rounded-[20px] border border-[#910101]">
+                <div class="flex justify-center items-center relative h-9 px-4 cursor-pointer rounded-[20px] border border-[#910101]">
                 <?php } else { ?>
-                <div class="flex justify-center items-center relative h-9 px-6  rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
+                <div class="flex justify-center items-center relative h-9 px-4  rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
                 <?php } ?>
                 Partners
                 </div>
@@ -77,9 +77,9 @@ $p = @$_GET['p'];
 
             <a href="contact.php?p=c" class="text-sm font-semibold leading-6 text-gray-900">
                 <?php if($p == "c") { ?>
-                <div class="flex justify-center items-center relative h-9 px-6 cursor-pointer rounded-[20px] border border-[#910101]">
+                <div class="flex justify-center items-center relative h-9 px-4 cursor-pointer rounded-[20px] border border-[#910101]">
                 <?php } else { ?>
-                <div class="flex justify-center items-center relative h-9 px-6  rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
+                <div class="flex justify-center items-center relative h-9 px-4  rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
                 <?php } ?>
                 Contact
                 </div>
