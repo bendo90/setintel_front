@@ -81,6 +81,30 @@
     </div>
 </footer>
 
+<div class="grid grid-cols-2 grid-rows-2 gap-0">
+    <div class="flex ...">
+        <div class="w-1/2 ... ">w-1/2</div>
+        <div class="w-1/2 ... ">w-1/2</div>
+    </div>
+    <div class="flex ...">
+        <div class="w-2/5 ...">w-2/5</div>
+        <div class="w-3/5 ...">w-3/5</div>
+    </div>
+    <div class="flex ...">
+        <div class="w-1/3 ...">w-1/3</div>
+        <div class="w-2/3 ...">w-2/3</div>
+    </div>
+    <div class="flex ...">
+        <div class="w-1/4 ...">w-1/4</div>
+        <div class="w-3/4 ...">w-3/4</div>
+    </div>
+    <div class="flex ...">
+        <div class="w-1/5 ...">w-1/5</div>
+        <div class="w-4/5 ...">w-4/5</div>
+    </div>
+
+</div>
+
 
 
 <footer class="hidden lg:block w-full h-60 border-t-4 border-solid border-red-900 flex items-center px-6" style="background-color: #303030">
