@@ -141,7 +141,7 @@ $p = @$_GET['p'];
 
         </div>
 
-          <div class="lg:hidden flex flex-1 justify-end">
+          <div class="lg:hidden flex flex-1 justify-end ml-3">
               <a href="">
                       <svg width="24" height="8" viewBox="0 0 24 8" fill="none" xmlns="http://www.w3.org/2000/svg">
                           <rect width="24" height="1" fill="#303030"/>
