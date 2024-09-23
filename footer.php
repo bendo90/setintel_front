@@ -98,10 +98,7 @@
         <div class="w-1/4 ...">w-1/4</div>
         <div class="w-3/4 ...">w-3/4</div>
     </div>
-    <div class="flex ...">
-        <div class="w-1/5 ...">w-1/5</div>
-        <div class="w-4/5 ...">w-4/5</div>
-    </div>
+
 
 </div>
 
