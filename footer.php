@@ -1,4 +1,4 @@
-<footer class="lg:hidden text-white py-10 border-t-4 border-solid border-red-900" style="background-color: #303030">
+<footer class="lg:hidden text-white py-10 border-t-4 border-solid border-red-900 px-3.5" style="background-color: #303030">
     <div class="container mx-auto text-center">
         <h2 class="text-lg font-bold mb-4">SETINTEL</h2>
         <ul class="space-y-2">
