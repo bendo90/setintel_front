@@ -1,16 +1,10 @@
 <footer class="lg:hidden text-white py-10 border-t-4 border-solid border-red-900" style="background-color: #303030">
     <div class="container mx-auto text-center">
-        <h2 class="text-lg font-bold mb-4">Company</h2>
+        <h2 class="text-lg font-bold mb-4">Setintel</h2>
         <ul class="space-y-2">
-            <li>
-                <a href="#" class="hover:text-red-500 transition-colors duration-300">About Us</a>
-            </li>
-            <li>
-                <a href="#" class="hover:text-red-500 transition-colors duration-300">Contact Us</a>
-            </li>
-            <li>
-                <a href="#" class="hover:text-red-500 transition-colors duration-300">Privacy Policy</a>
-            </li>
+            <li><a href="#" class="hover:text-red-500 transition-colors duration-300">About Us</a></li>
+            <li><a href="#" class="hover:text-red-500 transition-colors duration-300">Contact Us</a></li>
+            <li><a href="#" class="hover:text-red-500 transition-colors duration-300">Privacy Policy</a></li>
         </ul>
 
 
@@ -72,7 +66,7 @@
             </a>
         </div>
 
-        <p class="text-sm">&copy; 2023 all rights reserved</p>
+        <p class="text-sm">&copy; 2024 all rights reserved</p>
         <div class="flex items-center justify-center p-5">
             <svg width="115" height="24" viewBox="0 0 115 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M12.4526 17.02C11.6484 18.2379 10.3082 19.007 8.82228 19.007C6.21172 19.007 4.06734 16.9267 4.06734 14.4036C4.06734 11.8455 6.21172 9.7652 8.82228 9.7652C10.3082 9.7652 11.6484 10.5402 12.4526 11.7289L15.1272 9.25824C13.6705 7.30032 11.4095 6.05331 8.82228 6.05331C3.9508 6.05331 0 9.7652 0 14.4036C0 19.007 3.9508 22.7247 8.82228 22.7247C11.3221 22.7247 13.6064 21.4777 15.0631 19.4849L12.4526 17.02Z" fill="white"/>
@@ -90,6 +84,7 @@
 
 <footer class="lg:hidden text-white py-10 border-t-4 border-solid border-red-900" style="background-color: #303030">
 
+<footer class="hidden lg:block w-full h-60 border-t-4 border-solid border-red-900 flex items-center" style="background-color: #303030">
     <div class="mx-auto max-w-7xl w-full h-40">
         <div class="grid grid-cols-2 grid-rows-2 gap-0">
             <div class="flex justify-end h-20 items-center">
