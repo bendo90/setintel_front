@@ -21,17 +21,10 @@
       <p class="rubik-700 cont absolute left-1/2 top-1/2 text-[42px]  -translate-x-1/2 -translate-y-1/2 text-center lg:text-[64px] text-white lg:block" style="text-shadow: black 1px 1px 2px">
         When Sports and Innovation <br> Play Together
       </p>
-
-
-
-
-
-
-
     </div>
 
-      <div class=" flex items-center justify-center" style="background-color: #f0f9fa;">
-          <div class="bg-white rounded-lg max-w-7xl p-6 md:p-12 shadow-lg -mt-12 mb-20">
+      <div class="flex items-center justify-center" style="background-color: #f0f9fa;">
+          <div class="bg-white rounded-lg max-w-7xl p-6 md:p-12 shadow-lg -mt-12 mb-20 z-40">
               <h1 class="text-center text-3xl font-bold mb-12 text-gray-800">
                   Setintel - Where Sports And Innovation Play Together
               </h1>
@@ -75,6 +68,10 @@
               </div>
           </div>
       </div>
+
+
+
+
 
   </div>
 
