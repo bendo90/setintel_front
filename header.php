@@ -140,6 +140,21 @@ $p = @$_GET['p'];
           </a>
 
         </div>
+
+          <div class="hidden lg:flex lg:flex-1 lg:justify-end">
+              <a href="">
+                  <div class="rounded-[20px] px-3 py-[7px] flex gap-2.5 justify-center items-center relative w-[119px] h-9 border border-[#910101] bg-[#910101] hover:bg-white text-white hover:text-[#910101]">
+                      <svg width="24" height="8" viewBox="0 0 24 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                          <rect width="24" height="1" fill="#303030"/>
+                          <rect x="8" y="7" width="16" height="1" fill="#303030"/>
+                      </svg>
+
+
+                  </div>
+              </a>
+
+          </div>
+
       </nav>
       <!-- Mobile menu, show/hide based on menu open state. -->
       <div class="lg:hidden " role="dialog" aria-modal="true">
@@ -153,11 +168,7 @@ $p = @$_GET['p'];
               <span class="sr-only">Your Company</span>
               <svg
                 width="180"
-                height="36"
-                viewBox="0 0 180 36"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
-              >
+                height="36" viewBox="0 0 180 36" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <g clip-path="url(#clip0_264_1438)">
                   <path
                     d="M18.089 0.252303L9.03677 8.78158C8.8518 8.95628 8.7439 9.20475 8.7439 9.46097V14.8845C8.7439 15.1329 8.84409 15.3736 9.02136 15.5483L17.6304 24.0737C17.9849 24.4231 18.5514 24.4309 18.9137 24.0854L20.7018 22.3772C21.0794 22.0161 21.0871 21.4105 20.7133 21.0417L13.5956 13.9954C13.5571 13.9566 13.5224 13.9178 13.4916 13.8712C13.3105 13.6111 12.8403 12.8346 13.0022 11.802C13.1602 10.7809 13.8307 10.1986 14.0003 10.0588C15.349 8.80488 16.694 7.55091 18.0427 6.29307C18.4243 5.93978 19.0216 5.97084 19.3607 6.36295C19.5341 6.56482 19.7885 6.68129 20.0544 6.68129H23.5843C24.409 6.68129 24.8213 5.67191 24.2317 5.08957L19.3684 0.267832C19.0177 -0.0815695 18.4512 -0.089334 18.0928 0.252303H18.089Z"
