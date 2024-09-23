@@ -1,6 +1,6 @@
 <footer class="lg:hidden text-white py-10 border-t-4 border-solid border-red-900" style="background-color: #303030">
     <div class="container mx-auto text-center">
-        <h2 class="text-lg font-bold mb-4">Setintel</h2>
+        <h2 class="text-lg font-bold mb-4">SETINTEL</h2>
         <ul class="space-y-2">
             <li><a href="#" class="hover:text-red-500 transition-colors duration-300">About Us</a></li>
             <li><a href="#" class="hover:text-red-500 transition-colors duration-300">Contact Us</a></li>
@@ -93,7 +93,7 @@
                     <p class="px-5 text-white">Privace policy</p>
                 </div>
                 <div class="pl-14 pr-2">
-                    <p class="font-bold text-white">Setintel</p>
+                    <p class="font-bold text-white">SETINTEL</p>
                 </div>
             </div>
             <div class="row-start-2 h-20 flex items-center border-t">
