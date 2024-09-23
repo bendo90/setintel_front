@@ -9,6 +9,7 @@
   <body>
   <?php include ("header.php"); ?>
 
+  <div>
     <div id="heroVideoContainer" class="relative h-[calc(50vh-54px)] w-full overflow-hidden lg:h-[calc(50vh-78px)] bg-[url('./images/banner1.png')]">
 <!--      <video autoplay muted>-->
 <!--        <source src="./assets/home-Ck27GsdL.mp4" type="video/mp4" />-->
@@ -22,10 +23,10 @@
       </p>
     </div>
 
+      <div class="h-16 -mt-16" style="background-color: #f0f9fa;"></div>
 
+  </div>
 
-
-    <div class="h-16" style="background-color: #f0f9fa;"></div>
     <div class=" flex items-center justify-center" style="background-color: #f0f9fa;">
       <div class="bg-white rounded-lg max-w-7xl p-6 md:p-12 shadow-lg -mt-12 mb-20">
         <h1 class="text-center text-3xl font-bold mb-12 text-gray-800">
