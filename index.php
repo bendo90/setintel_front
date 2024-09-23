@@ -23,7 +23,7 @@
       </p>
     </div>
 
-      <div class="h-16 -mt-16" style="background-color: #f0f9fa;"></div>
+      <div class="h-16 -mt-16" style="background-color: #f0f9fa;">asdas</div>
 
   </div>
 
