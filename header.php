@@ -31,11 +31,11 @@ $p = @$_GET['p'];
           </a>
         </div>
 
-        <div class="hidden lg:flex lg:gap-x-6">
+        <div class="hidden lg:flex lg:gap-x-5">
 
           <a href="index.php" class="text-sm font-normal leading-6 text-gray-900">
               <?php if(!$p) { ?>
-              <div class="flex justify-center items-center relative h-9 px-4 cursor-pointer rounded-[20px] border border-[#910101]">
+              <div class="font-semibold flex justify-center items-center relative h-9 px-4 cursor-pointer rounded-[20px] border border-[#910101]">
               <?php } else { ?>
               <div class="flex justify-center items-center relative h-9 px-4  rounded-[20px] border border-[#fff] hover:rounded-[20px] hover:border hover:border-[#910101]">
               <?php } ?>
