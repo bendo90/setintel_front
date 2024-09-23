@@ -33,7 +33,7 @@ $p = @$_GET['p'];
 
         <div class="hidden lg:flex lg:gap-x-6">
 
-          <a href="index.php" class="text-sm font-light leading-6 text-gray-900">
+          <a href="index.php" class="text-sm font-normal leading-6 text-gray-900">
               <?php if(!$p) { ?>
               <div class="flex justify-center items-center relative h-9 px-4 cursor-pointer rounded-[20px] border border-[#910101]">
               <?php } else { ?>
@@ -43,7 +43,7 @@ $p = @$_GET['p'];
               </div>
           </a>
 
-            <a href="services.php?p=s" class="text-sm font-light leading-6 text-gray-900">
+            <a href="services.php?p=s" class="text-sm font-normal leading-6 text-gray-900">
                 <?php if($p == "s") { ?>
                 <div class="flex justify-center items-center relative h-9 px-4 cursor-pointer rounded-[20px] border border-[#910101]">
                 <?php } else { ?>
@@ -53,7 +53,7 @@ $p = @$_GET['p'];
                 </div>
             </a>
 
-            <a href="whoweare.php?p=w" class="text-sm font-light leading-6 text-gray-900">
+            <a href="whoweare.php?p=w" class="text-sm font-normal leading-6 text-gray-900">
                  <?php if($p == "w") { ?>
                  <div class="flex justify-center items-center relative h-9 px-4 cursor-pointer rounded-[20px] border border-[#910101]">
                  <?php } else { ?>
@@ -64,7 +64,7 @@ $p = @$_GET['p'];
             </a>
 
 
-            <a href="partners.php?p=p" class="text-sm font-light leading-6 text-gray-900">
+            <a href="partners.php?p=p" class="text-sm font-normal leading-6 text-gray-900">
                 <?php if($p == "p") { ?>
                 <div class="flex justify-center items-center relative h-9 px-4 cursor-pointer rounded-[20px] border border-[#910101]">
                 <?php } else { ?>
@@ -75,7 +75,7 @@ $p = @$_GET['p'];
             </a>
 
 
-            <a href="contact.php?p=c" class="text-sm font-light leading-6 text-gray-900">
+            <a href="contact.php?p=c" class="text-sm font-normal leading-6 text-gray-900">
                 <?php if($p == "c") { ?>
                 <div class="flex justify-center items-center relative h-9 px-4 cursor-pointer rounded-[20px] border border-[#910101]">
                 <?php } else { ?>
