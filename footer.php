@@ -99,25 +99,14 @@
     <div class="mx-auto max-w-7xl w-full h-40">
         <div class="grid grid-cols-2 grid-rows-2 gap-0">
             <div class="flex justify-between h-20 items-center">
-                <div class="flex">
-                    <div class="w-4/12 ... "><p class="font-bold text-white">SETINTEL</p></div>
-                    <div class="w-8/2 ... ">
-                        <div class="flex">
-                            <p class="px-5 text-white">About us</p>
-                            <p class="px-5 text-white">Contact us</p>
-                            <p class="px-5 text-white">Privace policy</p>
-                        </div>
-                    </div>
+                <div>
+                    <p class="font-bold text-white">SETINTEL</p>
                 </div>
-<!--                <div>-->
-<!--                    <p class="font-bold text-white">SETINTEL</p>-->
-<!--                </div>-->
-<!--                <div class="flex">-->
-<!--                    <p class="px-5 text-white">About us</p>-->
-<!--                    <p class="px-5 text-white">Contact us</p>-->
-<!--                    <p class="px-5 text-white">Privace policy</p>-->
-<!--                </div>-->
-
+                <div class="flex">
+                    <p class="px-5 text-white">About us</p>
+                    <p class="px-5 text-white">Contact us</p>
+                    <p class="px-5 text-white">Privace policy</p>
+                </div>
             </div>
             <div class="row-start-2 h-20 flex items-center border-t">
                 <svg width="115" height="24" viewBox="0 0 115 24" fill="none" xmlns="http://www.w3.org/2000/svg">
