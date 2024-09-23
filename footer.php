@@ -81,18 +81,6 @@
     </div>
 </footer>
 
-<div class="">
-    <div class="flex ...">
-        <div class="w-4/12 ... ">w-1/2</div>
-        <div class="w-8/2 ... ">w-1/2</div>
-    </div>
-    <div class="flex ...">
-        <div class="w-4/12 ... ">w-1/2</div>
-        <div class="w-8/2 ... ">w-1/2</div>
-    </div>
-
-</div>
-
 
 
 <footer class="hidden lg:block w-full h-60 border-t-4 border-solid border-red-900 flex items-center px-6" style="background-color: #303030">
