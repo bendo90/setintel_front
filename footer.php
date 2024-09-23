@@ -102,6 +102,9 @@
                 <div>
                     <p class="font-bold text-white">SETINTEL</p>
                 </div>
+                <div>
+                    <p class="font-bold text-white">SETINTEL</p>
+                </div>
                 <div class="flex">
                     <p class="px-5 text-white">About us</p>
                     <p class="px-5 text-white">Contact us</p>
