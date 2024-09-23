@@ -83,22 +83,13 @@
 
 <div class="">
     <div class="flex ...">
-        <div class="w-1/2 ... ">w-1/2</div>
-        <div class="w-1/2 ... ">w-1/2</div>
+        <div class="w-4/12 ... ">w-1/2</div>
+        <div class="w-8/2 ... ">w-1/2</div>
     </div>
     <div class="flex ...">
-        <div class="w-2/5 ...">w-2/5</div>
-        <div class="w-3/5 ...">w-3/5</div>
+        <div class="w-4/12 ... ">w-1/2</div>
+        <div class="w-8/2 ... ">w-1/2</div>
     </div>
-    <div class="flex ...">
-        <div class="w-1/3 ...">w-1/3</div>
-        <div class="w-2/3 ...">w-2/3</div>
-    </div>
-    <div class="flex ...">
-        <div class="w-1/4 ...">w-1/4</div>
-        <div class="w-3/4 ...">w-3/4</div>
-    </div>
-
 
 </div>
 
