@@ -23,6 +23,11 @@
     </div>
 
 
+  <div class="w-32 h-32 rounded-md bg-gradient-to-tr from-indigo-600 to-pink-600 p-0.5">
+      <div class="w-full h-full rounded-md bg-white  flex items-center justify-center">
+          <p class="text-lg font-manrope font-bold text-transparent bg-gradient-to-tr from-indigo-600 to-pink-600 bg-clip-text">Pagedone</p>
+      </div>
+  </div>
 
 
     <div class="h-16" style="background-color: #f0f9fa;"></div>
