@@ -8,7 +8,7 @@
   </head>
   <body>
   <?php include ("header.php"); ?>
-aaa
+
     <div id="heroVideoContainer" class="relative h-[calc(50vh-54px)] w-full overflow-hidden lg:h-[calc(50vh-78px)] bg-[url('./images/banner1.png')]">
 <!--      <video autoplay muted>-->
 <!--        <source src="./assets/home-Ck27GsdL.mp4" type="video/mp4" />-->
