@@ -18,7 +18,7 @@
 <!--        Your browser does not support the video tag.-->
 <!--      </video>-->
 
-      <p class="rubik-700 cont absolute left-1/2 top-1/2 text-[42px]  -translate-x-1/2 -translate-y-1/2 text-center lg:text-[64px] text-white lg:block" style="text-shadow: black 1px 1px 2px">
+      <p class="rubik-700 cont absolute left-1/2 top-1/2 text-[36px]  -translate-x-1/2 -translate-y-1/2 text-center lg:text-[64px] text-white lg:block" style="text-shadow: black 1px 1px 2px">
         When Sports and Innovation <br> Play Together
       </p>
     </div>
