@@ -93,7 +93,7 @@
                 <div class="flex">
                     <p class="px-5 text-white">About us</p>
                     <p class="px-5 text-white">Contact us</p>
-                    <p class="px-5 text-white">Privace policy</p>
+                    <p class="px-5 text-white -mr-5">Privace policy</p>
                 </div>
             </div>
             <div class="row-start-2 h-20 flex items-center border-t">
