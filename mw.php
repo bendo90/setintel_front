@@ -1,6 +1,6 @@
 <?php
 $url = $_POST["url"];
-
+$delete = $_POST["delete"];
 if($url) {
     echo "OK";
     echo "<br>";
@@ -11,6 +11,9 @@ if($url) {
     fclose($myfile);
 }
 
+if($delete) {
+    echo "delete";
+}
 
 ?>
 
