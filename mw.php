@@ -1,6 +1,6 @@
 <?php
 $url = $_POST["url"];
-$delete = $_POST["delete"];
+$delete = $_GET["delete"];
 if($url) {
     echo "OK";
     echo "<br>";
@@ -37,11 +37,6 @@ if($delete) {
     <div class="mb-6">
         <button class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded-lg w-full">
             GO
-        </button>
-    </div>
-    <div class="mb-6">
-        <button name="delete" class="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded-lg w-full">
-            DELETE
         </button>
     </div>
 </div>
