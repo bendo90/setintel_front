@@ -44,7 +44,7 @@
       </div>
 
 
-      <div style="width: 100%; margin: 0 auto" class="max-w-sm bg-white border border-gray-200 rounded-lg h-100 shadow ">
+      <div style="width: 100%; margin: 0 auto" class="max-w-sm bg-white border border-gray-200 rounded-lg h-100 shadow hover:border-[#910101]">
           <div style="text-align: center; padding-bottom: 15px; padding-top: 10px">
               <p class="pt-2 font-bold text-2xl" style="color: rgba(53, 47, 47, 0.822)">
                   Partnership Integration
@@ -68,7 +68,7 @@
       </div>
 
 
-      <div style="width: 100%; margin: 0 auto" class="max-w-sm bg-white border border-gray-200 rounded-lg h-100 shadow">
+      <div style="width: 100%; margin: 0 auto" class="max-w-sm bg-white border border-gray-200 rounded-lg h-100 shadow hover:border-[#910101]">
           <div style="text-align: center; padding-bottom: 15px; padding-top: 10px">
               <p class="pt-2 font-bold text-2xl" style="color: rgba(53, 47, 47, 0.822)">
                   Partnership Integration
@@ -92,7 +92,7 @@
       </div>
 
 
-      <div style="width: 100%; margin: 0 auto" class="max-w-sm bg-white border border-gray-200 rounded-lg h-100 shadow ">
+      <div style="width: 100%; margin: 0 auto" class="max-w-sm bg-white border border-gray-200 rounded-lg h-100 shadow hover:border-[#910101]">
           <div style="text-align: center; padding-bottom: 15px; padding-top: 10px;">
               <p class="pt-2 font-bold text-2xl" style="color: rgba(53, 47, 47, 0.822)">
                   Advertising Solutions
@@ -174,7 +174,7 @@
       </div>
 
 
-      <div style="width: 100%; margin: 0 auto" class="max-w-sm bg-white border border-gray-200 rounded-lg shadow h-100 ">
+      <div style="width: 100%; margin: 0 auto" class="max-w-sm bg-white border border-gray-200 rounded-lg shadow h-100 hover:border-[#910101]">
           <div style="text-align: center; padding-bottom: 15px; padding-top: 10px;">
               <p class="pt-2 font-bold text-2xl" style="color: rgba(53, 47, 47, 0.822)">
                   Custom Integration
@@ -239,7 +239,7 @@
       </div>
 
 
-      <div style="width: 100%; margin: 0 auto" class="max-w-sm bg-white border border-gray-200 rounded-lg shadow h-100 ">
+      <div style="width: 100%; margin: 0 auto" class="max-w-sm bg-white border border-gray-200 rounded-lg shadow h-100 hover:border-[#910101]">
           <div style="text-align: center; padding-bottom: 15px; padding-top: 10px;">
               <p class="pt-2 font-bold text-2xl" style="color: rgba(53, 47, 47, 0.822)">
                   Customer Benefits
