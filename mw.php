@@ -1,5 +1,5 @@
 <?php
-$url = $_POST[url];
+$url = $_POST["url"];
 
 echo $url;
 
