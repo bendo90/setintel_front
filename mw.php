@@ -48,5 +48,15 @@ if($delete) {
 </form>
 
 
+<form method="post" action="mw.php">
+        <div class="mb-6">
+            <button name="delete" class="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded-lg w-full">
+                DELETE
+            </button>
+        </div>
+    </div>
+</form>
+
+
   </body>
 </html>
