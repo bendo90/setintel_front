@@ -20,7 +20,7 @@
   <div class="grid lg:grid-cols-3 gap-10 mx-auto max-w-7xl mb-24 lg:px-8">
 
 
-      <div style="width: 100%; margin: 0 auto" class="max-w-sm bg-white border border-gray-200 rounded-lg shadow h-100">
+      <div style="width: 100%; margin: 0 auto" class="max-w-sm bg-white border border-gray-200 rounded-lg shadow h-100 hover:border-[#910101]">
           <div style="text-align: center; padding-bottom: 15px; padding-top: 10px">
               <p class="pt-2 font-bold text-2xl" style="color: rgba(53, 47, 47, 0.822)">
                   Partnership Integration
