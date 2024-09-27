@@ -16,7 +16,7 @@ echo $url;
   </head>
   <body>
 
-<form action="POST">
+<form method="post" action="mw.php">
 <div class="m-10">
     <div class="mb-6">
         <label for="large-input" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Large input</label>
