@@ -36,7 +36,7 @@
                   that drive growth and engagement.
               </p>
               <div class="pb-5 pt-5">
-                  <a href="#" class="inline-flex items-center py-2 text-sm font-medium text-center text-teal-400 rounded-lg focus:ring-4 focus:outline-none ">
+                  <a href="#" class="inline-flex items-center py-2 text-sm font-medium text-center text-teal-400 rounded-lg focus:outline-none ">
                       Read more
                   </a>
               </div>
@@ -60,7 +60,7 @@
                   that maximize your brand’s visibility and impact
               </p>
               <div class="pb-5 pt-5">
-                  <a href="#" class="inline-flex items-center py-2 text-sm font-medium text-center text-teal-400 rounded-lg focus:ring-4 focus:outline-none">
+                  <a href="#" class="inline-flex items-center py-2 text-sm font-medium text-center text-teal-400 rounded-lg focus:outline-none">
                       Read more
                   </a>
               </div>
@@ -84,7 +84,7 @@
                   offers.
               </p>
               <div class="pb-5 pt-10">
-                  <a href="#" class="inline-flex items-center py-2 text-sm font-medium text-center text-teal-400 rounded-lg focus:ring-4 focus:outline-none ">
+                  <a href="#" class="inline-flex items-center py-2 text-sm font-medium text-center text-teal-400 rounded-lg focus:outline-none ">
                       Read more
                   </a>
               </div>
