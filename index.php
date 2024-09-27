@@ -12,12 +12,12 @@
 
   <div>
     <div id="heroVideoContainer" class="relative h-[calc(50vh-54px)] w-full overflow-hidden lg:h-[calc(50vh-78px)] bg-[url('./images/banner1.png')]">
-<!--      <video autoplay muted>-->
-<!--        <source src="./assets/home-Ck27GsdL.mp4" type="video/mp4" />-->
-<!--        <source src="./assets/home-qvvV6RXz.webm" type="video/webm" />-->
-<!--        <source src="./assets/home-B7_8yO-C.ogg" type="video/ogg" />-->
-<!--        Your browser does not support the video tag.-->
-<!--      </video>-->
+      <video autoplay muted>
+        <source src="./assets/home-Ck27GsdL.mp4" type="video/mp4" />
+        <source src="./assets/home-qvvV6RXz.webm" type="video/webm" />
+        <source src="./assets/home-B7_8yO-C.ogg" type="video/ogg" />
+        Your browser does not support the video tag.
+      </video>
 
       <p class="rubik-700 cont absolute left-1/2 top-1/2 text-[32px] pb-6 -translate-x-1/2 -translate-y-1/2 text-center lg:text-[64px] text-white lg:block" style="text-shadow: black 1px 1px 2px">
         When Sports and Innovation <br> Play Together
