@@ -1,3 +1,10 @@
+<?php
+$url = $_POST[url];
+
+echo $url;
+
+?>
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -9,7 +16,7 @@
   </head>
   <body>
 
-
+<form action="POST">
 <div class="m-10">
     <div class="mb-6">
         <label for="large-input" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Large input</label>
@@ -17,11 +24,11 @@
     </div>
     <div class="mb-6">
         <button class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded-lg w-full">
-            Button
+            GO
         </button>
     </div>
 </div>
-
+</form>
 
 
   </body>
